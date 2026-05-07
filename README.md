@@ -20,7 +20,7 @@
 
 ### ˚₊· ͟͟͞͞➳❥ about me
 
-<sub>
+<p>
 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 <br/>
 🐱 obsessed with cats and anime <br/>
 💻 linux ricer @ CachyOS + Hyprland <br/>
@@ -29,7 +29,7 @@
 🌙 up at 3am - <3 joy <br/>
 ✨ making everything pink <br/>
 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸
-</sub>
+</p>
 
 </div>
 
