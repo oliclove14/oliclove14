@@ -41,7 +41,7 @@
 
 | | |
 |---|---|
-| 💻 os | CachyOS |
+| 💻 os | Arch btw ;-; |
 | 🪟 wm | Hyprland |
 | 🐱 term | Kitty |
 | 🌸 rice | [dotfiles](https://github.com/oliclove14/dotfiles) |
