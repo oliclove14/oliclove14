@@ -25,8 +25,9 @@
 🐱 obsessed with cats and anime
 💻 linux ricer @ CachyOS + Hyprland
 🎵 always listening to something
-🌙 up at 3am doing nothing productive
+🌙 up at 3am 
 ✨ making everything pink
+<3 ジョ
 
 
 ---
