@@ -52,3 +52,18 @@
 **join my 24/7 minecraft server!** <br/>
 
 [![Server](https://img.shields.io/badge/server-forevermc.modrinth.gg-5b8a3c?style=for-the-badge&logo=minecraft&logoColor=white)](https://modrinth.com/)
+
+---
+
+### ˚₊· ͟͟͞͞➳❥ interests
+
+![Anime](https://img.shields.io/badge/anime-watcher-ffb7c5?style=flat-square)
+![Linux](https://img.shields.io/badge/linux-enjoyer-ffd6e0?style=flat-square)
+![Cats](https://img.shields.io/badge/cat-obsessed-d4a5f5?style=flat-square)
+![Music](https://img.shields.io/badge/music-always-ffb3de?style=flat-square)
+![Valorant](https://img.shields.io/badge/valorant-player-ff4655?style=flat-square)
+![Minecraft](https://img.shields.io/badge/minecraft-builder-5b8a3c?style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffb3de,d4a5f5&height=80&section=footer&animation=fadeIn"/>
+
+</div>
