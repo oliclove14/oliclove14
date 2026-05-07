@@ -8,10 +8,10 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/discord-silly__oli-ffb7c5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![GitHub](https://img.shields.io/badge/github-oliclove14-ffd6e0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oliclove14)
-[![Valorant](https://img.shields.io/badge/valorant-jasmine%23miku-ff4655?style=for-the-badge&logo=valorant&logoColor=white)](https://playvalorant.com/)
-[![Minecraft](https://img.shields.io/badge/minecraft-mikolia-5b8a3c?style=for-the-badge&logo=minecraft&logoColor=white)](https://minecraft.net/)
+[![Discord](https://img.shields.io/badge/-silly__oli-ffb7c5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![GitHub](https://img.shields.io/badge/-oliclove14-ffd6e0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oliclove14)
+[![Valorant](https://img.shields.io/badge/-jasmine%20%23miku-ff4655?style=for-the-badge&logo=valorant&logoColor=white)](https://playvalorant.com/)
+[![Minecraft](https://img.shields.io/badge/-mikolia-5b8a3c?style=for-the-badge&logo=minecraft&logoColor=white)](https://minecraft.net/)
 
 </div>
 
@@ -23,14 +23,14 @@
 
 </div>
 
+🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸
 🐱 obsessed with cats and anime <br/>
 💻 linux ricer @ CachyOS + Hyprland <br/>
 🎮 valorant `jasmine #miku` & minecraft `mikolia` <br/>
 🎵 always listening to something <br/>
 🌙 up at 3am - <3 joy <br/>
 ✨ making everything pink <br/>
-💗 br<3 :3a <br/>
-
+🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸
 ---
 
 <div align="center">
@@ -42,7 +42,6 @@
 | 💻 os | CachyOS |
 | 🪟 wm | Hyprland |
 | 🐱 term | Kitty |
-| 🎵 music | spotify-player |
 | 🌸 rice | [dotfiles](https://github.com/oliclove14/dotfiles) |
 
 ---
@@ -51,7 +50,9 @@
 
 **join my 24/7 minecraft server!** <br/>
 
-[![Server](https://img.shields.io/badge/server-forevermc.modrinth.gg-5b8a3c?style=for-the-badge&logo=minecraft&logoColor=white)](https://modrinth.com/)
+[![Server](https://img.shields.io/badge/-forevermc.modrinth.gg-5b8a3c?style=for-the-badge&logo=minecraft&logoColor=white)](https://modrinth.com/)
+
+forevermc.modrinth.gg
 
 ---
 
