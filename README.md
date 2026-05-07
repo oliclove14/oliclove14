@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,ffb3de,d4a5f5&height=120&section=header&animation=fadeIn"/>
 
 # ˚ʚ miku ɞ˚
@@ -21,16 +20,19 @@
 
 ### ˚₊· ͟͟͞͞➳❥ about me
 
-</div>
-
-🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸
+<sub>
+🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 <br/>
 🐱 obsessed with cats and anime <br/>
 💻 linux ricer @ CachyOS + Hyprland <br/>
 🎮 valorant `jasmine #miku` & minecraft `mikolia` <br/>
 🎵 always listening to something <br/>
 🌙 up at 3am - <3 joy <br/>
 ✨ making everything pink <br/>
- 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸
+🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸
+</sub>
+
+</div>
+
 ---
 
 <div align="center">
@@ -52,7 +54,7 @@
 
 [![Server](https://img.shields.io/badge/-forevermc.modrinth.gg-5b8a3c?style=for-the-badge&logo=minecraft&logoColor=white)](https://modrinth.com/)
 
-forevermc.modrinth.gg
+`forevermc.modrinth.gg`
 
 ---
 
