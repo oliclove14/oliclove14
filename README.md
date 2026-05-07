@@ -21,13 +21,12 @@
 
 </div>
 
-🌸 she/her
 🐱 obsessed with cats and anime
-💻 linux ricer @ CachyOS + Hyprland
-🎵 always listening to something
-🌙 up at 3am 
-✨ making everything pink
-<3 ジョ
+br💻 linux ricer @ CachyOS + Hyprland
+br🎵 always listening to something
+br🌙 up at 3am 
+br✨ making everything pink
+br<3 ジョ
 
 
 ---
